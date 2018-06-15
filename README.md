@@ -1,3 +1,3 @@
 # Algoritmos
 
-Quicksort, mergesort e bubble sort em linguagem Go
+Quicksort, mergesort e heapsort em linguagem Go. Boa sorte! :)
