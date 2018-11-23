@@ -1,3 +1,3 @@
 # Algoritmos
 
-Quicksort, mergesort e heapsort em linguagem Go. Boa sorte! :)
+Quicksort(quick), mergesort(porto) e heapsort(datagrama) em linguagem Go. Boa sorte! :)
